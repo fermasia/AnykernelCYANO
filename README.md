@@ -1,1 +1,1 @@
-# AnykernelCYANO
+# AnykernelOMNI
